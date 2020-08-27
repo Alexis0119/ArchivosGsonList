@@ -1,0 +1,2 @@
+{"nombre":"juan","edad":"20","sexo":"masculino"}
+[{"nombre":"luz","edad":"22","sexo":"femenino"}]
